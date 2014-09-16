@@ -1,0 +1,32 @@
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\bin\Debug\DialogEditor.pdb
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.exe
+c:\users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.pdb
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.预览.resources
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Form1.resources
+I:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe.config
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.exe
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.pdb
+I:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe
+I:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.pdb
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.csprojResolveAssemblyReference.cache
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Form1.resources
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Properties.Resources.resources
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.预览.resources
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.csproj.GenerateResource.Cache
+I:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.剧本编辑器.resources
+F:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe.config
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.exe
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.pdb
+F:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.exe
+F:\DialogEditor\DialogEditor\bin\Debug\DialogEditor.pdb
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.csprojResolveAssemblyReference.cache
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Form1.resources
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.剧本编辑器.resources
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.Properties.Resources.resources
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.预览.resources
+F:\DialogEditor\DialogEditor\obj\Debug\DialogEditor.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\DialogEditor\DialogEditor\obj\Debug\DialogEditor.剧本编辑器.resources

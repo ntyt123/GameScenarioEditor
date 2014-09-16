@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfDialogEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="347" Width="515">
+    <Grid Margin="0,0,48,5">
+        <TreeView Name="treeView" Margin="0,0,35,0">
+
+            <TreeView.ItemTemplate>
+
+                <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock Text="{Binding Header}"/>
+
+                        <TextBlock Text="{Binding Type}" Margin="10 0 0 0" Foreground="Gray"/>
+
+                    </StackPanel>
+
+                </HierarchicalDataTemplate>
+
+            </TreeView.ItemTemplate>
+
+        </TreeView>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="429,54,-45,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+    </Grid>
+</Window>

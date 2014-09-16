@@ -1,0 +1,12 @@
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\bin\Debug\WpfDialogEditor.exe.config
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\bin\Debug\WpfDialogEditor.exe
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\bin\Debug\WpfDialogEditor.pdb
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\MainWindow.baml
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\MainWindow.g.cs
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\App.g.cs
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor_MarkupCompile.cache
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor.g.resources
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor.Properties.Resources.resources
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor.csproj.GenerateResource.Cache
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor.exe
+C:\Users\pc\documents\visual studio 2012\Projects\DialogEditor\WpfDialogEditor\obj\Debug\WpfDialogEditor.pdb
